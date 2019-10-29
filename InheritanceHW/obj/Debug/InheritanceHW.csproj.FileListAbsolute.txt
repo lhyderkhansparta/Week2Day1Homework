@@ -1,0 +1,7 @@
+C:\Users\Liinakhan Hyderkhan\Engineering45\Week2\Day1\InheritanceHW\InheritanceHW\obj\Debug\InheritanceHW.csprojAssemblyReference.cache
+C:\Users\Liinakhan Hyderkhan\Engineering45\Week2\Day1\InheritanceHW\InheritanceHW\obj\Debug\InheritanceHW.csproj.CoreCompileInputs.cache
+C:\Users\Liinakhan Hyderkhan\Engineering45\Week2\Day1\InheritanceHW\InheritanceHW\bin\Debug\InheritanceHW.exe.config
+C:\Users\Liinakhan Hyderkhan\Engineering45\Week2\Day1\InheritanceHW\InheritanceHW\bin\Debug\InheritanceHW.exe
+C:\Users\Liinakhan Hyderkhan\Engineering45\Week2\Day1\InheritanceHW\InheritanceHW\bin\Debug\InheritanceHW.pdb
+C:\Users\Liinakhan Hyderkhan\Engineering45\Week2\Day1\InheritanceHW\InheritanceHW\obj\Debug\InheritanceHW.exe
+C:\Users\Liinakhan Hyderkhan\Engineering45\Week2\Day1\InheritanceHW\InheritanceHW\obj\Debug\InheritanceHW.pdb
